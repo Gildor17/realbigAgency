@@ -1,0 +1,36 @@
+# Copyright (C) 2020 Realbig Agency
+# This file is distributed under the same license as the Table of Contents Plus package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Realbig Agency 010\n"
+"Report-Msgid-Bugs-To: https://t.me/RealBigSupBot\n"
+"POT-Creation-Date: 2020-12-25 16:25:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-02-04 17:04+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: settings.php:47 Settings page header
+msgid "Settings"
+msgstr "Настройки"
+
+#: settings.php:73 Enable widget checkbox label
+msgid "Enable widget"
+msgstr "Включить виджет"
+
+#: settings.php:77 Choose widget layout
+msgid "Choose widget layout"
+msgstr "Выберите макет виджета"
+
+#: settings.php:105 Save settings
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+#: settings.php:101 Save settings
+msgid "Clear cache"
+msgstr "Очистить кэш"
